@@ -40,6 +40,8 @@ Functions以外もデプロイする場合は
 
 # エミュレータ
 
+エミュレータは起動するたびに、Firestoreが空になりますのでご注意ください。
+
 初期化
 ```
 % firebase init emulators
